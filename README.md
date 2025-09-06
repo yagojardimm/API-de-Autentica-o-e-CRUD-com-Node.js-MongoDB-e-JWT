@@ -1,9 +1,8 @@
 ![image](https://github.com/yagojardimm/Trab-estrutura-de-dados/assets/134665777/0e4c999d-15b7-4b8a-ac69-aab319ffca37)
+
 # Curso: Engenharia de Software 
 # Disciplina: Laboratório de Desenvolvimento de Aplicativos Nativos
-curso: Engenharia de Software
-disciplina: Laboratório de Desenvolvimento de Aplicativos Nativos
-API de Autenticação e CRUD com Node.js
+# API de Autenticação e CRUD com Node.js
 Esta é uma API RESTful completa, construída com Node.js, Express e MongoDB, que implementa um sistema de autenticação de usuários baseado em JWT (Access e Refresh Tokens) e expõe um CRUD protegido de tarefas (To-dos).
 
 Funcionalidades Principais
